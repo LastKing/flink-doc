@@ -27,6 +27,6 @@
     4. Operators
         1. [Overview](https://www.jianshu.com/p/ea80d15e9b5e)
         1. [Overview](https://www.jianshu.com/p/f13e860cafbe)
-        2. [windows 1.3版本缺失和淘汰了一些内容](https://www.jianshu.com/p/a883262241ef)]
+        2. [windows 1.3版本缺失和淘汰了一些内容](https://www.jianshu.com/p/a883262241ef)
         3. [Joining]()
         4. [Process Function](https://www.jianshu.com/p/fbcb7cf7f863)
