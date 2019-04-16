@@ -8,7 +8,7 @@
 
 1. Application Development
 2. Basic Api Concepts
-    1. [Overview](./basicApIConcepts/Overview.md)
+    1. [Overview](./BasicApIConcepts/Overview.md)
 3. Streaming(DataStream API)
     1. Overview
     2. Event Time
@@ -23,7 +23,7 @@
         5. [Queryable State]()
         6. [State Backends](https://www.jianshu.com/p/9fac80afff2c)
         7. [State Schema Evolution]()
-        8. [Custom Serialization for Managed State]()
+        8. [Custom Serialization for Managed State](https://flink-china.org/doc/dev/stream/state/custom_serialization.html)
     4. Operators
         1. [Overview](https://www.jianshu.com/p/ea80d15e9b5e)
         1. [Overview](https://www.jianshu.com/p/f13e860cafbe)
