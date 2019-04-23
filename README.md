@@ -37,3 +37,8 @@
         2. [windows 1.3版本缺失和淘汰了一些内容](https://www.jianshu.com/p/a883262241ef)
         3. [Joining]()
         4. [Process Function](https://www.jianshu.com/p/fbcb7cf7f863)
+4. Batch(DataStream API)
+    1. [Overview]()
+    2. [Concepts & Common API](https://www.jianshu.com/p/6bc5b4e6f163)
+    3. Streaming Concepts
+        1. [Overview](./TableApi&SQL/StreamingConcepts/Overview.md)
